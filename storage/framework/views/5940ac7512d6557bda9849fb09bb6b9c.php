@@ -1,0 +1,1 @@
+components.product-card<?php /**PATH C:\xampp\htdocs\foto\storage\framework\views/6e41670264c6b6ef2fd1274afb3881b9.blade.php ENDPATH**/ ?>
